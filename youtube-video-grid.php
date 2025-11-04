@@ -4,7 +4,7 @@
  * Plugin URI:  https://cupocode.com/
  * Description: Shortcode [youtube_uploads] shows the 12 most recent YouTube uploads from the channel set in Settings, using the public RSS feed. Supports Shorts. No API key.
  * Version:     1.2.0
- * Author:      Cup O Code
+ * Author:      Cup O Code - Tim Keeley
  * Author URI:  https://cupocode.com/
  * License:     GPL-2.0+
  * Text Domain: youtube-uploads-grid
